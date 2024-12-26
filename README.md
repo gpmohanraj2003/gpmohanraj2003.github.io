@@ -13,7 +13,7 @@ Finally, for general web search, we use the Tavily [search API](https://tavily.c
 
 ## Getting Started 🚀
 
-<img width="1219" alt="Screenshot 2024-07-10 at 7 23 11 PM" src="https://github.com/gpmohanraj2003/gpmohanraj2003.github.io/blob/main/profile.jpg">
+<img width="1219" alt="profile.jpg" src="https://github.com/gpmohanraj2003/gpmohanraj2003.github.io/blob/main/profile.jpg">
 
 1. Download the repo locally:
     ```
