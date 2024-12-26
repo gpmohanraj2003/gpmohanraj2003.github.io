@@ -13,7 +13,7 @@ Finally, for general web search, we use the Tavily [search API](https://tavily.c
 
 ## Getting Started 🚀
 
-<img width="1219" alt="Screenshot 2024-07-10 at 7 23 11 PM" src="https://github.com/virattt/financial-agent-ui/assets/901795/43cc07a9-db70-421c-a70d-870d0c8c7848">
+<img width="1219" alt="Screenshot 2024-07-10 at 7 23 11 PM" src="https://github.com/gpmohanraj2003/gpmohanraj2003.github.io/blob/main/profile.jpg">
 
 1. Download the repo locally:
     ```
