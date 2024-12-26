@@ -4,7 +4,7 @@ I'm an Ethical Hacker.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IhyzIwZ7xxk?si=dVOj6vPV0CHu_F1p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-We use Vercel's AI [SDK](<iframe width="560" height="315" src="https://www.youtube.com/embed/IhyzIwZ7xxk?si=dVOj6vPV0CHu_F1p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>) and
+We use Vercel's AI [SDK]<iframe width="560" height="315" src="https://www.youtube.com/embed/IhyzIwZ7xxk?si=dVOj6vPV0CHu_F1p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>and
 LangChain [agents](https://python.langchain.com/v0.1/docs/modules/agents/) to dynamically answer and render UI.
 
 In addition, we use the financial datasets [stock market API](https://www.financialdatasets.ai/) to get real-time stock data and in-depth financials.
